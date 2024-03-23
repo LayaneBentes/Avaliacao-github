@@ -23,16 +23,4 @@ Em 1940, a escritora atuou como professora do curso de Literatura e Cultura Bras
 
 Nos anos seguintes, fez viagens à Índia (1953), Europa (1954), Porto Rico (1957) e participou de conferências em Israel (1958). No fim de sua vida, também escreveu para as rádios Ministério da Educação e Cultura, em 1961, e Roquette-Pinto, em 1963. Faleceu em 9 de novembro de 1964, no Rio de Janeiro.
 
-## Um Poema
-| Eu não tinha este rosto de hoje,
-Assim calmo, assim triste, assim magro,
-Nem estes olhos tão vazios,
-Nem o lábio amargo.
-Eu não tinha estas mãos sem força,
-Tão paradas e frias e mortas;
-Eu não tinha este coração
-Que nem se mostra.
-Eu não dei por esta mudança,
-Tão simples, tão certa, tão fácil:
-— Em que espelho ficou perdida
-a minha face
+
